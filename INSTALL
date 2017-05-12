@@ -1,0 +1,4 @@
+Building Gilly
+See doc/readme-qt.rst for instructions on building Gilly QT.
+
+See doc/build-*.txt for instructions on building gillyd.
